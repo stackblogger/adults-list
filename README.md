@@ -3,7 +3,7 @@
 
 # adults-list
 
-A simple JavaScript / TypeScript library to export list of adult or bad words.
+A simple JavaScript / TypeScript library to export list of more than 2000 unique adult or bad words. Use the library to detect adult contents on your site or module.
 
 ## Installation
 
