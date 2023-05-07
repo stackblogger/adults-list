@@ -14,7 +14,7 @@ npm install adults-list
 ## Usage
 
 ```typescript
-import { adultWords } from 'adult-list';
+import { adultWords } from 'adults-list';
 
 console.log(adultWords);
 
